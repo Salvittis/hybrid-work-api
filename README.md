@@ -129,5 +129,7 @@ Para fins de desenvolvimento e teste, o banco H2 pode ser acessado via console w
 ---
 *Global Solution FIAP 2025 - The Future of Work*
 Pedro Henrique Salvitti Habiro / RM88166
+
 Filipe Prado Menezes / RM98765 
+
 Cássio Eid Kobaysahi Yonetsuka / RM99678
